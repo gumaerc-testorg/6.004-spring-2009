@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Tutorial Problems
 uid: 70f5eb24-11d2-7699-9d92-b0c6f5c4ac94
 ---

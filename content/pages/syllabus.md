@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0561f529-0ffe-16a2-f473-8aeab32f9106
 ---
@@ -91,7 +93,7 @@ REQUIREMENTS
 A
 {{< tdclose >}}
 {{< tdopen >}}
-170 <= total points
+170 \<= total points
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ A
 B
 {{< tdclose >}}
 {{< tdopen >}}
-150 <= total points < 170
+150 \<= total points \< 170
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ B
 C
 {{< tdclose >}}
 {{< tdopen >}}
-130 <= total points < 150
+130 \<= total points \< 150
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +120,7 @@ C
 D
 {{< tdclose >}}
 {{< tdopen >}}
-110 <= total points < 130
+110 \<= total points \< 130
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ D
 F
 {{< tdclose >}}
 {{< tdopen >}}
-total points < 110, missing required lab
+total points \< 110, missing required lab
 {{< tdclose >}}
 
 {{< trclose >}}
