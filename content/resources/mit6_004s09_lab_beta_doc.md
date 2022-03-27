@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 809a46a0-df5c-efe1-7d42-984488629429
 resourcetype: Document
 title: "\u03B2 Documentation"
 uid: c1b18db6-34e4-052b-737b-87e2021e4b12

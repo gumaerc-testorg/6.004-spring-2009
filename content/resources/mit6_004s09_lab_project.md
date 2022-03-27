@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 809a46a0-df5c-efe1-7d42-984488629429
 resourcetype: Document
 title: Design Project
 uid: aa4f3543-2eb0-ff79-aa53-822063af62e7

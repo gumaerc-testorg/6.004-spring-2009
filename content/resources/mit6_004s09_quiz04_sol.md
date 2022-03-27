@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 1d883e2b-599b-12c9-4b18-34d21964eb70
 resourcetype: Document
 title: 'Quiz #4 Solutions'
 uid: ec293fb3-0bd3-b983-6de1-c58888b5b6c8

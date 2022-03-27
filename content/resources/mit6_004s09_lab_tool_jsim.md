@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 809a46a0-df5c-efe1-7d42-984488629429
 resourcetype: Document
 title: JSim
 uid: 0c8eb217-93c1-fb46-f083-a6c556aba8a9

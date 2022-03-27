@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 809a46a0-df5c-efe1-7d42-984488629429
 resourcetype: Document
 title: "Summary of \u03B2 Instruction Formats"
 uid: 477a612b-77d3-d3e4-39de-0d4b7a6ee64c

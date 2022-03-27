@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a0c2a732-1c5c-3736-6f6c-b88633ff7432
 resourcetype: Document
 title: "A Student\u2019s Guide to the Digital World"
 uid: 8aab78cf-0879-9951-4dd6-e0b73c6ab43e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 809a46a0-df5c-efe1-7d42-984488629429
 resourcetype: Document
 title: BSim
 uid: 9082ab67-c9d6-bf44-cdd3-9737b382b790

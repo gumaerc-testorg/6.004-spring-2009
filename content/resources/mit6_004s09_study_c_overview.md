@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a0c2a732-1c5c-3736-6f6c-b88633ff7432
 resourcetype: Document
 title: C Overview
 uid: fe6774c1-91e4-0380-d912-8821dcec4aa4

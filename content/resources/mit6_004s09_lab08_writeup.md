@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 809a46a0-df5c-efe1-7d42-984488629429
 resourcetype: Document
 title: 'Lab #8 Checkoff'
 uid: eb83c61e-60bf-26a6-2c57-ed36116c2557

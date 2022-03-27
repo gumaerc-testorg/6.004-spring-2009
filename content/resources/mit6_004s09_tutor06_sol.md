@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
+parent_uid: 70f5eb24-11d2-7699-9d92-b0c6f5c4ac94
 resourcetype: Document
 title: Sequential logic and memory components - Solutions
 uid: 6dc66eea-5a3c-8e8a-2787-a6726fb6410e

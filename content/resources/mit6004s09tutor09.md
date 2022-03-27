@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
+parent_uid: 70f5eb24-11d2-7699-9d92-b0c6f5c4ac94
 resourcetype: Document
 title: Pipelining
 uid: b8762693-028c-281b-29b0-ad9a7cde3e5f

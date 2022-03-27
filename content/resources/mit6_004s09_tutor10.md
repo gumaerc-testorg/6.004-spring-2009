@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
+parent_uid: 70f5eb24-11d2-7699-9d92-b0c6f5c4ac94
 resourcetype: Document
 title: Models of computation
 uid: e750509e-8586-33ba-493f-8b2d46175ef9

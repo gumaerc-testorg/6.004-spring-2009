@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 0561f529-0ffe-16a2-f473-8aeab32f9106
 resourcetype: Document
 title: Learning Objectives and Measurable Outcomes
 uid: 9eb784ca-a9fe-b81f-6ec0-9da09a427384

@@ -33,13 +33,13 @@ Compressed tar archive of all 6.004 files
 {{< tdopen >}}
 
 
-jsim.jar ([JAR]({{< baseurl >}}/resources/jsim))
+jsim.jar ([JAR]({{< baseurl >}}/resources/jsim-1))
 
-nominal.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/nominal.jsim))
+nominal.jsim ([JSIM]({{< baseurl >}}/resources/nominal))
 
-8clocks.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/8clocks.jsim))
+8clocks.jsim ([JSIM]({{< baseurl >}}/resources/8clocks))
 
-stdcell.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/stdcell.jsim))
+stdcell.jsim ([JSIM]({{< baseurl >}}/resources/stdcell))
 
 
 {{< tdclose >}}
@@ -54,7 +54,7 @@ Latest release of JSim (2.0.28) and include files
 
 bsim.jar ([JAR]({{< baseurl >}}/resources/bsim))
 
-beta.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/beta.uasm))
+beta.uasm ([UASM]({{< baseurl >}}/resources/beta))
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ Latest release of TMSim (1.1.8)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-lab1checkoff.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab1checkoff.jsim))
+lab1checkoff.jsim ([JSIM]({{< baseurl >}}/resources/lab1checkoff))
 {{< tdclose >}}
 {{< tdopen >}}
 Checkoff file for Lab 1
@@ -83,7 +83,7 @@ Checkoff file for Lab 1
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-lab2checkoff.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab2checkoff.jsim))
+lab2checkoff.jsim ([JSIM]({{< baseurl >}}/resources/lab2checkoff))
 {{< tdclose >}}
 {{< tdopen >}}
 Checkoff file for Lab 2
@@ -94,19 +94,19 @@ Checkoff file for Lab 2
 {{< tdopen >}}
 
 
-lab3checkoff\_6.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3checkoff_6.jsim))
+lab3checkoff\_6.jsim ([JSIM]({{< baseurl >}}/resources/lab3checkoff_6))
 
-lab3checkoff\_10.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3checkoff_10.jsim))
+lab3checkoff\_10.jsim ([JSIM]({{< baseurl >}}/resources/lab3checkoff_10))
 
-lab3adder.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3adder.jsim))
+lab3adder.jsim ([JSIM]({{< baseurl >}}/resources/lab3adder))
 
-lab3boolean.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3boolean.jsim))
+lab3boolean.jsim ([JSIM]({{< baseurl >}}/resources/lab3boolean))
 
-lab3compare.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3compare.jsim))
+lab3compare.jsim ([JSIM]({{< baseurl >}}/resources/lab3compare))
 
-lab3multiply.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3multiply.jsim))
+lab3multiply.jsim ([JSIM]({{< baseurl >}}/resources/lab3multiply))
 
-lab3shifter.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab3shifter.jsim))
+lab3shifter.jsim ([JSIM]({{< baseurl >}}/resources/lab3shifter))
 
 
 {{< tdclose >}}
@@ -117,7 +117,7 @@ Checkoff files for Lab 3
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-lab4header ([TXT](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab4header.txt))
+lab4header ([TXT]({{< baseurl >}}/resources/lab4header))
 {{< tdclose >}}
 {{< tdopen >}}
 Header file for Lab 4
@@ -126,7 +126,7 @@ Header file for Lab 4
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-lab5checkoff.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab5checkoff.uasm))
+lab5checkoff.uasm ([UASM]({{< baseurl >}}/resources/lab5checkoff))
 {{< tdclose >}}
 {{< tdopen >}}
 Checkoff file for Lab 5
@@ -137,19 +137,19 @@ Checkoff file for Lab 5
 {{< tdopen >}}
 
 
-lab6basicblock.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6basicblock.uasm))
+lab6basicblock.uasm ([UASM]({{< baseurl >}}/resources/lab6basicblock))
 
-lab6basicblock.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6basicblock.jsim))
+lab6basicblock.jsim ([JSIM]({{< baseurl >}}/resources/lab6basicblock-1))
 
-lab6pc.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6pc.jsim))
+lab6pc.jsim ([JSIM]({{< baseurl >}}/resources/lab6pc))
 
-lab6regfile.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6regfile.jsim))
+lab6regfile.jsim ([JSIM]({{< baseurl >}}/resources/lab6regfile))
 
-lab6ctl.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6ctl.jsim))
+lab6ctl.jsim ([JSIM]({{< baseurl >}}/resources/lab6ctl))
 
-lab6.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6.uasm))
+lab6.uasm ([UASM]({{< baseurl >}}/resources/lab6))
 
-lab6checkoff.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab6checkoff.jsim))
+lab6checkoff.jsim ([JSIM]({{< baseurl >}}/resources/lab6checkoff))
 
 
 {{< tdclose >}}
@@ -162,11 +162,11 @@ Checkoff files for Lab 6
 {{< tdopen >}}
 
 
-lab7macros.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab7macros.uasm))
+lab7macros.uasm ([UASM]({{< baseurl >}}/resources/lab7macros))
 
-lab7checkoff.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab7checkoff.uasm))
+lab7checkoff.uasm ([UASM]({{< baseurl >}}/resources/lab7checkoff))
 
-swapregs.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/swapregs.uasm))
+swapregs.uasm ([UASM]({{< baseurl >}}/resources/swapregs))
 
 
 {{< tdclose >}}
@@ -177,7 +177,7 @@ Checkoff files for Lab 7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-lab8.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/lab8.uasm))
+lab8.uasm ([UASM]({{< baseurl >}}/resources/lab8))
 {{< tdclose >}}
 {{< tdopen >}}
 File for Lab 8
@@ -188,11 +188,11 @@ File for Lab 8
 {{< tdopen >}}
 
 
-projcheckoff.uasm ([UASM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/projcheckoff.uasm))
+projcheckoff.uasm ([UASM]({{< baseurl >}}/resources/projcheckoff-1))
 
 projcheckoff.bin ([BIN]({{< baseurl >}}/resources/projcheckoff))
 
-projcheckoff.jsim ([JSIM](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/projcheckoff.jsim))
+projcheckoff.jsim ([JSIM]({{< baseurl >}}/resources/projcheckoff-2))
 
 
 {{< tdclose >}}
@@ -203,7 +203,7 @@ Files for design project
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-jsim.el ([EL](/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/tools/jsim.el))
+jsim.el ([EL]({{< baseurl >}}/resources/jsim))
 {{< tdclose >}}
 {{< tdopen >}}
 Major Emacs mode for editing JSim netlists
