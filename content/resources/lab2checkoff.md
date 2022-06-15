@@ -3,7 +3,7 @@ content_type: resource
 description: Supporting file for a lab assignment to design and test a CMOS circuit
   that performs addition on two unsigned 4-bit numbers, producing a 5-bit result.
   Information on how to contact the on-line assignments server.
-file: /media/courses/6-004-computation-structures-spring-2009/3cb45553d57480ea232345c9ebe642fb_lab2checkoff.jsim
+file: /courses/6-004-computation-structures-spring-2009/3cb45553d57480ea232345c9ebe642fb_lab2checkoff.jsim
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -15,3 +15,5 @@ resourcetype: Other
 title: 'Lab #2: Checkoff'
 uid: 3cb45553-d574-80ea-2323-45c9ebe642fb
 ---
+Supporting file for a lab assignment to design and test a CMOS circuit that performs addition on two unsigned 4-bit numbers, producing a 5-bit result. Information on how to contact the on-line assignments server.
+

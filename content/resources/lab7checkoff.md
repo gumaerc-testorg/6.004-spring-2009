@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a lab assignment on trap handlers
-file: /media/courses/6-004-computation-structures-spring-2009/a51fbea40fac6d93d913ecfa14464b8f_lab7checkoff.uasm
+file: /courses/6-004-computation-structures-spring-2009/a51fbea40fac6d93d913ecfa14464b8f_lab7checkoff.uasm
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: 'Lab #7: Checkoff'
 uid: a51fbea4-0fac-6d93-d913-ecfa14464b8f
 ---
+Supporting file for a lab assignment on trap handlers
+

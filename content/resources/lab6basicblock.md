@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a lab assignment on RISC processor design.
-file: /media/courses/6-004-computation-structures-spring-2009/5ae45891b3058c5775a686203426249b_lab6basicblock.uasm
+file: /courses/6-004-computation-structures-spring-2009/5ae45891b3058c5775a686203426249b_lab6basicblock.uasm
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: 'Lab #6: Basic Block'
 uid: 5ae45891-b305-8c57-75a6-86203426249b
 ---
+Supporting file for a lab assignment on RISC processor design.
+

@@ -3,7 +3,7 @@ content_type: resource
 description: Supporting file for a lab assignment  to write the FSM controller for
   a Turing Machine (TM) which checks to see if the string of left and right parentheses
   it finds on its input tape "balance."
-file: /media/courses/6-004-computation-structures-spring-2009/eb8edf56c7abb0a0f78c23c0d777e6b7_lab4header.txt
+file: /courses/6-004-computation-structures-spring-2009/eb8edf56c7abb0a0f78c23c0d777e6b7_lab4header.txt
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -15,3 +15,5 @@ resourcetype: Other
 title: 'Lab #4: Header'
 uid: eb8edf56-c7ab-b0a0-f78c-23c0d777e6b7
 ---
+Supporting file for a lab assignment  to write the FSM controller for a Turing Machine (TM) which checks to see if the string of left and right parentheses it finds on its input tape "balance."
+

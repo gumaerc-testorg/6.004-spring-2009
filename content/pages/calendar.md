@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, labs,
+  and quizzes for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 4db6a20d-fa8d-dad9-7db5-58f07e511987
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Each of the quizzes took place in recitation one day after the listed lecture.

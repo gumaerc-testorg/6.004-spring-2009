@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for lab assignments on computation structures.
-file: /media/courses/6-004-computation-structures-spring-2009/d4f5cb0a24c84a2439ac9a917ca88405_8clocks.jsim
+file: /courses/6-004-computation-structures-spring-2009/d4f5cb0a24c84a2439ac9a917ca88405_8clocks.jsim
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: 8 clocks
 uid: d4f5cb0a-24c8-4a24-39ac-9a917ca88405
 ---
+Supporting file for lab assignments on computation structures.
+

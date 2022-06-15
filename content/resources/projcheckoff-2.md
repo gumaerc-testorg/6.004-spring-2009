@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a design project on computation structures.
-file: /media/courses/6-004-computation-structures-spring-2009/c6c963466df79fb24f653f719d1f642e_projcheckoff.jsim
+file: /courses/6-004-computation-structures-spring-2009/c6c963466df79fb24f653f719d1f642e_projcheckoff.jsim
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Project Checkoff
 uid: c6c96346-6df7-9fb2-4f65-3f719d1f642e
 ---
+Supporting file for a design project on computation structures.
+
