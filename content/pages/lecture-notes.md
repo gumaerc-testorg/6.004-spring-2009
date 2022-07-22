@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with the lecture notes for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3b03b526-e292-49fb-1e00-40434460010b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ### Abbreviations
@@ -34,7 +43,7 @@ LECTURE NOTES
 Course overview and mechanics, basics of information
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec01))
+({{% resource_link 1671e119-08fa-42be-91d3-2f447db24128 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +55,7 @@ Course overview and mechanics, basics of information
 Digital abstraction, combinational logic, voltage-based encoding
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec02))
+({{% resource_link 3516f5d3-6ef7-ca08-2765-4eac932363fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +67,7 @@ Digital abstraction, combinational logic, voltage-based encoding
 CMOS technology, gate design, timing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec03))
+({{% resource_link e47305d1-da75-074f-ee16-dd6501499f3e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +79,7 @@ CMOS technology, gate design, timing
 Canonical forms; synthesis, simplification
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec04))
+({{% resource_link e2cc4676-9d21-1314-9671-d12e86c123f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +91,7 @@ Canonical forms; synthesis, simplification
 Sequential logic
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec05))
+({{% resource_link b06d402d-e9ca-a103-a922-9655280b1076 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +103,7 @@ Sequential logic
 Storage elements, finite state machines
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec06))
+({{% resource_link 13f0393a-7c56-840b-8d15-efb89f84fe65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +115,7 @@ Storage elements, finite state machines
 Synchronization, metastability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec07))
+({{% resource_link 8c63a1af-5db9-e3cb-f8e8-fe2578dc2df2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +127,7 @@ Synchronization, metastability
 Pipelining; throughput and latency
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec08))
+({{% resource_link 9e728980-50c4-6147-80d2-fa582895eda3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +139,7 @@ Pipelining; throughput and latency
 Case study: multipliers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec09))
+({{% resource_link fddc12b3-adcd-482a-847b-944bf1a50f48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +151,7 @@ Case study: multipliers
 Beta instruction set architecture, compilation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec10))
+({{% resource_link 78c15985-bad6-6daa-c3ef-9d03261e3644 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +163,7 @@ Beta instruction set architecture, compilation
 Machine language programming issues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec11))
+({{% resource_link e4ee1fca-e3d3-281f-e783-974257f788cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +175,7 @@ Machine language programming issues
 Models of computation, programmable architectures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec12))
+({{% resource_link 63aaade0-f27c-77ed-a89f-0cda22be36fa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +187,7 @@ Models of computation, programmable architectures
 Stacks and procedures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec13))
+({{% resource_link 9051d6b9-50ca-c510-4c4b-e3edf9412938 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +199,7 @@ Stacks and procedures
 Non-pipelined Beta implementation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec14))
+({{% resource_link 1b95818b-b8a4-cd88-3622-cb827cf30967 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +211,7 @@ Non-pipelined Beta implementation
 Multilevel memories; locality, performance, caches
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec15))
+({{% resource_link f28971fe-c5a1-1bf5-98b2-b90c5fe6e7c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +223,7 @@ Multilevel memories; locality, performance, caches
 Cache design issues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec16))
+({{% resource_link 3117d0b5-d39f-621b-e788-dfe814e905d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +235,7 @@ Cache design issues
 Virtual memory: mapping, protection, contexts
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec17))
+({{% resource_link 60a95dc3-1bbc-5663-0c07-9dcfcc95ec53 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +247,7 @@ Virtual memory: mapping, protection, contexts
 Virtual machines: timesharing, OS kernels, supervisor calls
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec18))
+({{% resource_link 0aa25d95-138b-2ce1-3c98-9cf40faa7f5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +259,7 @@ Virtual machines: timesharing, OS kernels, supervisor calls
 Devices and interrupt handlers, preemptive interrupts, real-time issues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec19))
+({{% resource_link eeba6308-073e-39f0-d7dc-1b74fb353a78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +271,7 @@ Devices and interrupt handlers, preemptive interrupts, real-time issues
 Communication issues: busses, networks, protocols
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mit6_004s09_lec20))
+({{% resource_link 726c2f40-8a9e-086e-cfcd-14b65211676f "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +283,7 @@ Communication issues: busses, networks, protocols
 Communicating processes: semaphores, synchronization, atomicity, deadlock
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec21))
+({{% resource_link 27e3478c-e66b-0274-fecc-5eb7aa4f7ed6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +295,7 @@ Communicating processes: semaphores, synchronization, atomicity, deadlock
 Pipelined Beta implementation, bypassing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec22))
+({{% resource_link 1b67ccd1-f92f-c35a-6e1d-995f3a8d60c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +307,7 @@ Pipelined Beta implementation, bypassing
 Pipeline issues: delay slots, annulment, exceptions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec23))
+({{% resource_link 65a611c8-b78c-f365-27bc-fb11d03b49f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +319,7 @@ Pipeline issues: delay slots, annulment, exceptions
 Parallel processing, shared memory, cache coherence, consistency criteria
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec24))
+({{% resource_link 0c279962-cc69-5046-7122-b49346026b1b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,7 +331,7 @@ Parallel processing, shared memory, cache coherence, consistency criteria
 Wrapup lecture
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_004s09_lec25))
+({{% resource_link e8f4a903-be99-1b11-49a1-42b62a4611ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

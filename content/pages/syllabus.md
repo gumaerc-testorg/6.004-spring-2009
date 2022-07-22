@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings, problems sets, collaboration, labs, quizzes,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0561f529-0ffe-16a2-f473-8aeab32f9106
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This course makes use of Athena, MIT's UNIX-based computing environment. OCW does not provide access to this environment.
@@ -22,7 +31,7 @@ Course Description
 
 The problem sets and lab exercises are intended to give students "hands-on" experience in designing digital systems; each student completes a gate-level design for a reduced instruction set computer (RISC) processor during the semester. Access to workstations as well as help from the course staff is provided in the lab but it is possible to complete the assignments using Athena machines or one's home computer. Students are encouraged to get help from others in understanding the material, but the designs and measurements they hand in must be their own work.
 
-6.004 Learning Objectives and Measurable Outcomes ([PDF]({{< baseurl >}}/resources/mit6_004s09_syll_objectives))
+6.004 Learning Objectives and Measurable Outcomes ({{% resource_link 9eb784ca-a9fe-b81f-6ec0-9da09a427384 "PDF" %}})
 
 Prerequisites
 -------------
@@ -91,7 +100,7 @@ REQUIREMENTS
 A
 {{< tdclose >}}
 {{< tdopen >}}
-170 <= total points
+170 \<= total points
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +109,7 @@ A
 B
 {{< tdclose >}}
 {{< tdopen >}}
-150 <= total points < 170
+150 \<= total points \< 170
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +118,7 @@ B
 C
 {{< tdclose >}}
 {{< tdopen >}}
-130 <= total points < 150
+130 \<= total points \< 150
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +127,7 @@ C
 D
 {{< tdclose >}}
 {{< tdopen >}}
-110 <= total points < 130
+110 \<= total points \< 130
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +136,7 @@ D
 F
 {{< tdclose >}}
 {{< tdopen >}}
-total points < 110, missing required lab
+total points \< 110, missing required lab
 {{< tdclose >}}
 
 {{< trclose >}}
