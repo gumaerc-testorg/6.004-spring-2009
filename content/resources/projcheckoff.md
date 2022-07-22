@@ -5,6 +5,7 @@ file: /courses/6-004-computation-structures-spring-2009/877bff2ba2e0a74f55c06d59
 file_type: application/octet-stream
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for a design project on computation structures.
-

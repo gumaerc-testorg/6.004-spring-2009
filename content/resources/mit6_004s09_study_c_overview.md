@@ -4,6 +4,7 @@ description: Overview of the C programming language.
 file: /courses/6-004-computation-structures-spring-2009/fe6774c191e40380d9128821dcec4aa4_MIT6_004s09_study_c_overview.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Overview of the C programming language.
-

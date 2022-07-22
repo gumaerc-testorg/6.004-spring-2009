@@ -4,6 +4,7 @@ description: Solutions to tutorial problems on stacks and procedures.
 file: /courses/6-004-computation-structures-spring-2009/17bc0d038d325911e2c8e82a2ebac6fd_MIT6_004s09_tutor13_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to tutorial problems on stacks and procedures.
-

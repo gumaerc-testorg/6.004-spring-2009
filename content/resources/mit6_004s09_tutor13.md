@@ -4,6 +4,7 @@ description: Tutorial problems on stacks and procedures.
 file: /courses/6-004-computation-structures-spring-2009/b70cfe149085f1c797c881304dbfc0c8_MIT6_004s09_tutor13.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Tutorial problems on stacks and procedures.
-

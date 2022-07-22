@@ -6,6 +6,7 @@ file: /courses/6-004-computation-structures-spring-2009/166dcd7ff5edaea4c70b121e
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for lab assignments on computation structures. Latest release of JSim (2.0.28).
-

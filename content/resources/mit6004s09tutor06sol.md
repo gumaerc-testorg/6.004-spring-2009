@@ -4,6 +4,7 @@ description: Solutions to tutorial problems on sequential logic and memory compo
 file: /courses/6-004-computation-structures-spring-2009/a03e657f543542fe749f61a332f27eae_MIT6004s09tutor06sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to tutorial problems on sequential logic and memory components.
-

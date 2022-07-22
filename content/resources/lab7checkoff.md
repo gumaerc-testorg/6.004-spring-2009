@@ -5,6 +5,7 @@ file: /courses/6-004-computation-structures-spring-2009/a51fbea40fac6d93d913ecfa
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lab #7: Checkoff'
 uid: a51fbea4-0fac-6d93-d913-ecfa14464b8f
 ---
 Supporting file for a lab assignment on trap handlers
-

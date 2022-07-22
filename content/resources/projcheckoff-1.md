@@ -5,6 +5,7 @@ file: /courses/6-004-computation-structures-spring-2009/4dcbd90505d5a442c5cbd1e8
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Project Checkoff
 uid: 4dcbd905-05d5-a442-c5cb-d1e811276c60
 ---
 Supporting file for a design project on computation structures.
-

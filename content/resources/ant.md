@@ -6,6 +6,7 @@ file: /courses/6-004-computation-structures-spring-2009/9f6352df04119687c35c86c6
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Ant demo for a lecture on storage elements and synchronous finite state machines.
-

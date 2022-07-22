@@ -4,6 +4,7 @@ description: Student guide on computation structures and digital systems.
 file: /courses/6-004-computation-structures-spring-2009/8aab78cf087999514dd6e0b73c6ab43e_MIT6_004s09_study_digital_guide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Student guide on computation structures and digital systems.
-

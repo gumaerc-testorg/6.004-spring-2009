@@ -5,6 +5,7 @@ file: /courses/6-004-computation-structures-spring-2009/f44c8b1bda3975953652544d
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: BETA Macro package
 uid: f44c8b1b-da39-7595-3652-544ddd406f7c
 ---
 Supporting file for lab assignments on computation structures.
-

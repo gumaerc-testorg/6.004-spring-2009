@@ -4,6 +4,7 @@ description: Tutorial problems on building the Beta.
 file: /courses/6-004-computation-structures-spring-2009/e6b7279f05e1d6e0e9ba1f7b819460c0_MIT6_004s09_tutor14.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Tutorial problems on building the Beta.
-

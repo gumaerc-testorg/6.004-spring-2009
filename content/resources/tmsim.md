@@ -6,6 +6,7 @@ file: /courses/6-004-computation-structures-spring-2009/1b3810aacb7197786561dd74
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for lab assignments on computation structures. Latest release of TMSim (1.1.8)
-

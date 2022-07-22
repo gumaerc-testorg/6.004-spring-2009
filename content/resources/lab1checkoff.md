@@ -7,6 +7,7 @@ file: /courses/6-004-computation-structures-spring-2009/2cb752565f151d4059b4cc7b
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lab #1: Checkoff'
 uid: 2cb75256-5f15-1d40-59b4-cc7b8c16e463
 ---
 Supporting file for a lab assignment to use a simulation program (JSim) to make some measurements of an N-channel mosfet (or "nfet" for short). Information on how to contact the on-line assignments server.
-

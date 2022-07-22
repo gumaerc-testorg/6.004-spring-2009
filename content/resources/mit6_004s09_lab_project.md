@@ -5,6 +5,7 @@ file: /courses/6-004-computation-structures-spring-2009/aa4f35432eb0ff79aa538220
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Design project to optimize the price/performance of your Beta design. 
-

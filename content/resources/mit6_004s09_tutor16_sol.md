@@ -4,6 +4,7 @@ description: Solutions to tutorial problems on caches.
 file: /courses/6-004-computation-structures-spring-2009/5a48c24d9e1fc04da308e3b6dea3a501_MIT6_004s09_tutor16_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorial Problems
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to tutorial problems on caches.
-

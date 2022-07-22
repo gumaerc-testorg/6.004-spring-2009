@@ -5,6 +5,7 @@ file: /courses/6-004-computation-structures-spring-2009/0c061afd3797eff8a1660683
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a quiz on computation structures.
-
