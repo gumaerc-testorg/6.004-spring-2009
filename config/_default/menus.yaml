@@ -1,33 +1,33 @@
 leftnav:
 - identifier: 0561f529-0ffe-16a2-f473-8aeab32f9106
   name: Syllabus
-  url: /pages/syllabus
+  pageRef: /pages/syllabus
   weight: 10
 - identifier: 4db6a20d-fa8d-dad9-7db5-58f07e511987
   name: Calendar
-  url: /pages/calendar
+  pageRef: /pages/calendar
   weight: 20
 - identifier: 3b03b526-e292-49fb-1e00-40434460010b
   name: Lecture Notes
-  url: /pages/lecture-notes
+  pageRef: /pages/lecture-notes
   weight: 30
 - identifier: 70f5eb24-11d2-7699-9d92-b0c6f5c4ac94
   name: Tutorial Problems
-  url: /pages/tutorial-problems
+  pageRef: /pages/tutorial-problems
   weight: 40
 - identifier: 809a46a0-df5c-efe1-7d42-984488629429
   name: Labs
-  url: /pages/labs
+  pageRef: /pages/labs
   weight: 50
 - identifier: 1d883e2b-599b-12c9-4b18-34d21964eb70
   name: Exams
-  url: /pages/exams
+  pageRef: /pages/exams
   weight: 60
 - identifier: a0c2a732-1c5c-3736-6f6c-b88633ff7432
   name: Study Materials
-  url: /pages/study-materials
+  pageRef: /pages/study-materials
   weight: 70
 - identifier: 4a943900-de94-8e8c-5c50-0874d4a8bdcf
   name: Tools
-  url: /pages/tools
+  pageRef: /pages/tools
   weight: 80
