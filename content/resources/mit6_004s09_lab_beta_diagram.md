@@ -2,6 +2,7 @@
 content_type: resource
 description: Reference material on the unpipelined Beta and control logic.
 file: /courses/6-004-computation-structures-spring-2009/33be804ab1b9f3694a79bb0a88e4c9ed_MIT6_004s09_lab_beta_diagram.pdf
+file_size: 132715
 file_type: application/pdf
 learning_resource_types:
 - Labs

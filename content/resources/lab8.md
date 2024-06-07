@@ -4,6 +4,7 @@ description: Supporting file for a lab assignment on implementing an operating s
   This program implements a primitive OS kernel for the Beta along with three simple
   user-mode processes hooked together through a semaphore-controlled bounded buffer.
 file: /courses/6-004-computation-structures-spring-2009/f868cb90e53729f97211413130d2c616_lab8.uasm
+file_size: 23803
 file_type: text/plain
 learning_resource_types:
 - Tools

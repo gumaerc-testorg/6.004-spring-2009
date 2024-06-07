@@ -2,6 +2,7 @@
 content_type: resource
 description: Diagram of the 5-stage pipelined Beta.
 file: /courses/6-004-computation-structures-spring-2009/869c07205966ddd1508c7b3f49b71856_MIT6_004s09_lab_pbeta_diagram.pdf
+file_size: 30820
 file_type: application/pdf
 learning_resource_types:
 - Labs

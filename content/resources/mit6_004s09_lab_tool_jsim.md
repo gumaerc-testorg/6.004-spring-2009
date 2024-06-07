@@ -2,6 +2,7 @@
 content_type: resource
 description: Documentation on the JSim computer-aided design (CAD) tool.
 file: /courses/6-004-computation-structures-spring-2009/0c8eb21793c1fb46f083a6c556aba8a9_MIT6_004s09_lab_tool_jsim.pdf
+file_size: 191065
 file_type: application/pdf
 learning_resource_types:
 - Labs

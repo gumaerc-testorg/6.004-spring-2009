@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for lab assignments on computation structures. Latest
   release of JSim (2.0.28).
 file: /courses/6-004-computation-structures-spring-2009/166dcd7ff5edaea4c70b121ed7267740_jsim.jar
+file_size: 200533
 file_type: application/zip
 learning_resource_types:
 - Tools

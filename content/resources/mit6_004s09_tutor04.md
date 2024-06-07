@@ -2,6 +2,7 @@
 content_type: resource
 description: Tutorial problems on gates and Boolean logic.
 file: /courses/6-004-computation-structures-spring-2009/1c5bd09b163f46ce16b929a3413c4892_MIT6_004s09_tutor04.pdf
+file_size: 327438
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

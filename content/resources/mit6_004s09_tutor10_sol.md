@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to tutorial problems on models of computation.
 file: /courses/6-004-computation-structures-spring-2009/d92c9f1005692be830757d589ea8f607_MIT6_004s09_tutor10_sol.pdf
+file_size: 47541
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
