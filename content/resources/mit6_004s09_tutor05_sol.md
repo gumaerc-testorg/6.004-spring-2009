@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to tutorial problems on synthesis of combinational logic.
 file: /courses/6-004-computation-structures-spring-2009/7ea55998597fbe0100a23f64355be589_MIT6_004s09_tutor05_sol.pdf
+file_size: 332187
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

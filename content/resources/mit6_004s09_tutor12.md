@@ -2,6 +2,7 @@
 content_type: resource
 description: Tutorial problems on machine language.
 file: /courses/6-004-computation-structures-spring-2009/e485dbb9ab8156ccc41013c34287fb97_MIT6_004s09_tutor12.pdf
+file_size: 48431
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

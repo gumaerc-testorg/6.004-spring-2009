@@ -2,6 +2,7 @@
 content_type: resource
 description: Tutorial problems on semaphores.
 file: /courses/6-004-computation-structures-spring-2009/df22fc34d016d293981cffa76c7b5bb7_MIT6_004s09_tutor20.pdf
+file_size: 89588
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

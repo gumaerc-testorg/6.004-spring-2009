@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for lab assignments on computation structures. Major
   Emacs mode for editing JSim netlists
 file: /courses/6-004-computation-structures-spring-2009/1d08145263041c7c9bb090a0794a8016_jsim.el
+file_size: 1909
 file_type: text/plain
 learning_resource_types:
 - Tools

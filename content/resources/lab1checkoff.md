@@ -4,6 +4,7 @@ description: Supporting file for a lab assignment to use a simulation program (J
   to make some measurements of an N-channel mosfet (or "nfet" for short). Information
   on how to contact the on-line assignments server.
 file: /courses/6-004-computation-structures-spring-2009/2cb752565f151d4059b4cc7b8c16e463_lab1checkoff.jsim
+file_size: 701
 file_type: text/plain
 learning_resource_types:
 - Tools

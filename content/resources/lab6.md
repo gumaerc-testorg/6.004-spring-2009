@@ -5,6 +5,7 @@ description: 'Supporting file for a lab assignment on RISC processor design. Thi
   starts executing at location 0; illegal instructions cause a trap to location 4;
   interrupts cause a trap to location 8.'
 file: /courses/6-004-computation-structures-spring-2009/be084086d55fe8c157c748d886f57f5a_lab6.uasm
+file_size: 11574
 file_type: text/plain
 learning_resource_types:
 - Tools

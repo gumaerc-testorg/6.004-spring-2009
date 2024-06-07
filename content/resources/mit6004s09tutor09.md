@@ -2,6 +2,7 @@
 content_type: resource
 description: Tutorial problems on pipelining.
 file: /courses/6-004-computation-structures-spring-2009/b8762693028c281b29b0ad9a7cde3e5f_MIT6004s09tutor09.pdf
+file_size: 164022
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
