@@ -4,6 +4,7 @@ description: Supporting file for a lab assignment to design and test a CMOS circ
   that performs addition on two unsigned 4-bit numbers, producing a 5-bit result.
   Information on how to contact the on-line assignments server.
 file: /courses/6-004-computation-structures-spring-2009/3cb45553d57480ea232345c9ebe642fb_lab2checkoff.jsim
+file_size: 3246
 file_type: text/plain
 learning_resource_types:
 - Tools

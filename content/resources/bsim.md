@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for lab assignments on computation structures. Latest
   release of BSim (1.1.11).
 file: /courses/6-004-computation-structures-spring-2009/1a9d7fcc589a1df76a49d5cdec073737_bsim.jar
+file_size: 91907
 file_type: application/zip
 learning_resource_types:
 - Tools

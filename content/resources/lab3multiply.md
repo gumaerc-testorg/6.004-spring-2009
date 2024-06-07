@@ -4,6 +4,7 @@ description: Supporting file for a lab assignment to build the arithmetic and lo
   unit (ALU) for the Beta processor. These are some test vectors that may be helpful
   in debugging multipliers.
 file: /courses/6-004-computation-structures-spring-2009/420b8ea978204f6fae1ed7c22284a36e_lab3multiply.jsim
+file_size: 3631
 file_type: text/plain
 learning_resource_types:
 - Tools

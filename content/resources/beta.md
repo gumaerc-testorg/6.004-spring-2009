@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for lab assignments on computation structures.
 file: /courses/6-004-computation-structures-spring-2009/f44c8b1bda3975953652544ddd406f7c_beta.uasm
+file_size: 9551
 file_type: text/plain
 learning_resource_types:
 - Tools

@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for a lab assignment on trap handlers. Handler for opcode
   1 extension.
 file: /courses/6-004-computation-structures-spring-2009/e8354e056a79d7f5a226bd02633016ac_swapregs.uasm
+file_size: 1519
 file_type: text/plain
 learning_resource_types:
 - Tools

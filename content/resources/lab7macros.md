@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file for a lab assignment on trap handlers. These macros save
   and restore all 32 registers in a 32-word block of memory.
 file: /courses/6-004-computation-structures-spring-2009/732927bf8b866ba8bde10e075b8c9001_lab7macros.uasm
+file_size: 2797
 file_type: text/plain
 learning_resource_types:
 - Tools

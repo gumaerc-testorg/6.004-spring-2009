@@ -2,6 +2,7 @@
 content_type: resource
 description: Tutorial problems on sequential logic and memory components.
 file: /courses/6-004-computation-structures-spring-2009/cd504466b693eab480f82376ef4b6be3_MIT6004s09tutor06.pdf
+file_size: 53806
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
