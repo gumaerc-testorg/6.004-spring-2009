@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a quiz on computation structures.
-file: /courses/6-004-computation-structures-spring-2009/069499651244ea36ac78ef8e4c8f16dc_MIT6_004s09_quiz01_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/069499651244ea36ac78ef8e4c8f16dc_MIT6_004s09_quiz01_sol.pdf
 file_size: 74787
 file_type: application/pdf
 learning_resource_types:

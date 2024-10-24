@@ -3,7 +3,7 @@ content_type: resource
 description: Supporting file for a lab assignment to build the arithmetic and logic
   unit (ALU) for the Beta processor. information on how to contact the on-line assignments
   server.
-file: /courses/6-004-computation-structures-spring-2009/dafd306cd83444c7b6cf419e3542eb1b_lab3checkoff_6.jsim
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/dafd306cd83444c7b6cf419e3542eb1b_lab3checkoff_6.jsim
 file_size: 19557
 file_type: text/plain
 learning_resource_types:

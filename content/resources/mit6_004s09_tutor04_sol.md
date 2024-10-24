@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on gates and Boolean logic.
-file: /courses/6-004-computation-structures-spring-2009/af678b59dc2296e4bd7b4302bd286922_MIT6_004s09_tutor04_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/af678b59dc2296e4bd7b4302bd286922_MIT6_004s09_tutor04_sol.pdf
 file_size: 370861
 file_type: application/pdf
 learning_resource_types: []
