@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on pipelined Beta.
-file: /courses/6-004-computation-structures-spring-2009/40fe453898c18c6e13049f3f4b414cae_MIT6_004s09_tutor21.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/40fe453898c18c6e13049f3f4b414cae_MIT6_004s09_tutor21.pdf
 file_size: 83243
 file_type: application/pdf
 learning_resource_types: []

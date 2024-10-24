@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a lab assignment on RISC processor design.
-file: /courses/6-004-computation-structures-spring-2009/3973cd6e11033146c6e59e3e3e5f2a26_lab6basicblock.jsim
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/3973cd6e11033146c6e59e3e3e5f2a26_lab6basicblock.jsim
 file_size: 8750
 file_type: text/plain
 learning_resource_types:
