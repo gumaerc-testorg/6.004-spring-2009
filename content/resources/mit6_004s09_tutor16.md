@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on caches.
-file: /courses/6-004-computation-structures-spring-2009/6a2e7d46bdcccc7fae3dad0652f7bc3f_MIT6_004s09_tutor16.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/6a2e7d46bdcccc7fae3dad0652f7bc3f_MIT6_004s09_tutor16.pdf
 file_size: 50633
 file_type: application/pdf
 learning_resource_types: []

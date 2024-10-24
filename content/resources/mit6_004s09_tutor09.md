@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on pipelining.
-file: /courses/6-004-computation-structures-spring-2009/c1b63c4cf7c039f9635c48ba76748546_MIT6_004s09_tutor09.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/c1b63c4cf7c039f9635c48ba76748546_MIT6_004s09_tutor09.pdf
 file_size: 164022
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on virtual memory.
-file: /courses/6-004-computation-structures-spring-2009/a944856e41afa0b744120bfbae046809_MIT6_004s09_tutor17.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/a944856e41afa0b744120bfbae046809_MIT6_004s09_tutor17.pdf
 file_size: 44850
 file_type: application/pdf
 learning_resource_types: []
