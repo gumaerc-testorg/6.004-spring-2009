@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for a lab assignment on RISC processor design. Information
   on how to contact the on-line assignments server.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/a24916df2e38ca3dd95db3aa8661d68e_lab6checkoff.jsim
+file: /courses/6-004-computation-structures-spring-2009/a24916df2e38ca3dd95db3aa8661d68e_lab6checkoff.jsim
 file_size: 14344
 file_type: text/plain
 learning_resource_types:

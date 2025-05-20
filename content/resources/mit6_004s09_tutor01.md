@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on the basics of information.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/8ef531797e54260f68c2a430932d1630_MIT6_004s09_tutor01.pdf
+file: /courses/6-004-computation-structures-spring-2009/8ef531797e54260f68c2a430932d1630_MIT6_004s09_tutor01.pdf
 file_size: 458145
 file_type: application/pdf
 learning_resource_types: []

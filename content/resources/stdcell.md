@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for lab assignments on computation structures.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/8ceb72ef3ee03222ae7c5ee2fe96bfc2_stdcell.jsim
+file: /courses/6-004-computation-structures-spring-2009/8ceb72ef3ee03222ae7c5ee2fe96bfc2_stdcell.jsim
 file_size: 7740
 file_type: text/plain
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for lab assignments on computation structures. Latest
   release of TMSim (1.1.8)
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/1b3810aacb7197786561dd74fde6cc5f_tmsim.jar
+file: /courses/6-004-computation-structures-spring-2009/1b3810aacb7197786561dd74fde6cc5f_tmsim.jar
 file_size: 66597
 file_type: application/zip
 learning_resource_types:

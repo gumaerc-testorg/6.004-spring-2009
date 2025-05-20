@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Design project to optimize the price/performance of your Beta design. '
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/aa4f35432eb0ff79aa53822063af62e7_MIT6_004s09_lab_project.pdf
+file: /courses/6-004-computation-structures-spring-2009/aa4f35432eb0ff79aa53822063af62e7_MIT6_004s09_lab_project.pdf
 file_size: 188255
 file_type: application/pdf
 learning_resource_types:
