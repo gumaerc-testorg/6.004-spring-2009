@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on CMOS technology.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/ac565ff13a8e94d551a8a37b1384415f_MIT6_004s09_tutor03.pdf
+file: /courses/6-004-computation-structures-spring-2009/ac565ff13a8e94d551a8a37b1384415f_MIT6_004s09_tutor03.pdf
 file_size: 48265
 file_type: application/pdf
 learning_resource_types: []

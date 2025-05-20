@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a lab assignment on trap handlers
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/a51fbea40fac6d93d913ecfa14464b8f_lab7checkoff.uasm
+file: /courses/6-004-computation-structures-spring-2009/a51fbea40fac6d93d913ecfa14464b8f_lab7checkoff.uasm
 file_size: 12334
 file_type: text/plain
 learning_resource_types:

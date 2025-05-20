@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting file for a lab assignment on RISC processor design. Tests
   vectors for debugging Beta PC circuitry.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/3297e13d8bfa42cd8e6b4f03beefa22d_lab6pc.jsim
+file: /courses/6-004-computation-structures-spring-2009/3297e13d8bfa42cd8e6b4f03beefa22d_lab6pc.jsim
 file_size: 1998
 file_type: text/plain
 learning_resource_types:

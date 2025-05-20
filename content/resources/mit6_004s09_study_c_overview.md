@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overview of the C programming language.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/fe6774c191e40380d9128821dcec4aa4_MIT6_004s09_study_c_overview.pdf
+file: /courses/6-004-computation-structures-spring-2009/fe6774c191e40380d9128821dcec4aa4_MIT6_004s09_study_c_overview.pdf
 file_size: 52950
 file_type: application/pdf
 learning_resource_types: []

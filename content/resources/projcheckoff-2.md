@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a design project on computation structures.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/c6c963466df79fb24f653f719d1f642e_projcheckoff.jsim
+file: /courses/6-004-computation-structures-spring-2009/c6c963466df79fb24f653f719d1f642e_projcheckoff.jsim
 file_size: 5862
 file_type: text/plain
 learning_resource_types:
