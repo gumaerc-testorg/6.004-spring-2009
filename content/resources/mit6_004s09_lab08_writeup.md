@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Checklist for a lab assignment on implementing an operating system.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/eb83c61e60bf26a62c57ed36116c2557_MIT6_004s09_lab08_writeup.pdf
+file: /courses/6-004-computation-structures-spring-2009/eb83c61e60bf26a62c57ed36116c2557_MIT6_004s09_lab08_writeup.pdf
 file_size: 20133
 file_type: application/pdf
 learning_resource_types:

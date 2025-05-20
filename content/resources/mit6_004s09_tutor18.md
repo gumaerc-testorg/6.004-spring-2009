@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial problems on operating system issues.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/d6e533fcbe177e8015e3a143cc378857_MIT6_004s09_tutor18.pdf
+file: /courses/6-004-computation-structures-spring-2009/d6e533fcbe177e8015e3a143cc378857_MIT6_004s09_tutor18.pdf
 file_size: 34849
 file_type: application/pdf
 learning_resource_types: []

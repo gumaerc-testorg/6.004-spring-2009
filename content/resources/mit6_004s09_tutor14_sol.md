@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on building the Beta.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/6f271ba05df1ab87ffa5254ea9d85921_MIT6_004s09_tutor14_sol.pdf
+file: /courses/6-004-computation-structures-spring-2009/6f271ba05df1ab87ffa5254ea9d85921_MIT6_004s09_tutor14_sol.pdf
 file_size: 81534
 file_type: application/pdf
 learning_resource_types: []

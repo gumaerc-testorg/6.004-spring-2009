@@ -2,7 +2,7 @@
 content_type: resource
 description: Ant demo for a lecture on storage elements and synchronous finite state
   machines.
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/9f6352df04119687c35c86c6294aebb7_ant.jar
+file: /courses/6-004-computation-structures-spring-2009/9f6352df04119687c35c86c6294aebb7_ant.jar
 file_size: 64353
 file_type: application/zip
 learning_resource_types:

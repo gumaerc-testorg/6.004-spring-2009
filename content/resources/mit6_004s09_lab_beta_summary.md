@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Summary of instruction formats for the \u03B2 machine."
-file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/477a612b77d3d3e439de0d4b7a6ee64c_MIT6_004s09_lab_beta_summary.pdf
+file: /courses/6-004-computation-structures-spring-2009/477a612b77d3d3e439de0d4b7a6ee64c_MIT6_004s09_lab_beta_summary.pdf
 file_size: 36523
 file_type: application/pdf
 learning_resource_types:
