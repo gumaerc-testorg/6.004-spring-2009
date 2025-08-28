@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on memory hierarchy,
-file: /courses/6-004-computation-structures-spring-2009/29451677ec1935d3f1325930acdfb12d_MIT6_004s09_tutor15_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/29451677ec1935d3f1325930acdfb12d_MIT6_004s09_tutor15_sol.pdf
 file_size: 72852
 file_type: application/pdf
 learning_resource_types: []
