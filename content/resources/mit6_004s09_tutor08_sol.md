@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on synchronization and metastability.
-file: /courses/6-004-computation-structures-spring-2009/8f8bbb7a64b9276601681f457531bdd0_MIT6_004s09_tutor08_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/8f8bbb7a64b9276601681f457531bdd0_MIT6_004s09_tutor08_sol.pdf
 file_size: 250974
 file_type: application/pdf
 learning_resource_types: []

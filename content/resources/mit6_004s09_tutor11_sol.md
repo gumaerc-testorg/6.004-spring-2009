@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on programmable machines.
-file: /courses/6-004-computation-structures-spring-2009/d15c03bc8c78e5a0d730179558f3a00a_MIT6_004s09_tutor11_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/d15c03bc8c78e5a0d730179558f3a00a_MIT6_004s09_tutor11_sol.pdf
 file_size: 173140
 file_type: application/pdf
 learning_resource_types: []

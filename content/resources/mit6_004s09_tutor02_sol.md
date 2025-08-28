@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on the digital abstraction.
-file: /courses/6-004-computation-structures-spring-2009/a430e40d03640dfc1d50f6b0e6d96e00_MIT6_004s09_tutor02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/a430e40d03640dfc1d50f6b0e6d96e00_MIT6_004s09_tutor02_sol.pdf
 file_size: 165676
 file_type: application/pdf
 learning_resource_types: []
