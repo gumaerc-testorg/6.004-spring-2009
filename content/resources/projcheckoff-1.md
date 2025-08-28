@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a design project on computation structures.
-file: /courses/6-004-computation-structures-spring-2009/4dcbd90505d5a442c5cbd1e811276c60_projcheckoff.uasm
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/4dcbd90505d5a442c5cbd1e811276c60_projcheckoff.uasm
 file_size: 8019
 file_type: text/plain
 learning_resource_types:

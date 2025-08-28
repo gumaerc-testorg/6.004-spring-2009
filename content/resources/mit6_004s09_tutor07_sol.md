@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to tutorial problems on finite state machines.
-file: /courses/6-004-computation-structures-spring-2009/b5e517f7fd3fe8efe85285a6de7515ca_MIT6_004s09_tutor07_sol.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/b5e517f7fd3fe8efe85285a6de7515ca_MIT6_004s09_tutor07_sol.pdf
 file_size: 120774
 file_type: application/pdf
 learning_resource_types: []

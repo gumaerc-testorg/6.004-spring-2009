@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on the learning objectives and measurable outcomes of the course.
-file: /courses/6-004-computation-structures-spring-2009/9eb784caa9feb81f6ec09da09a427384_MIT6_004s09_syll_objectives.pdf
+file: /ol-ocw-studio-app/courses/6-004-computation-structures-spring-2009/9eb784caa9feb81f6ec09da09a427384_MIT6_004s09_syll_objectives.pdf
 file_size: 94801
 file_type: application/pdf
 learning_resource_types: []
