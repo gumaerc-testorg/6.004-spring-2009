@@ -132,7 +132,7 @@ Ant demo from lecture 6 (just for fun!)
 
 ## Running JSim
 
-First, you'll need to install a Java system. The Sun Java Runtime Environment, Standard Edition (J2SE), for Linux, Solaris and Windows can be downloaded from [Sun's official site](http://java.sun.com/javase/index.jsp). J2SE for Mac OS X is available from [Apple's Web site](https://developer.apple.com/). On Linux, you'll want to change your PATH environment variable so that the "java" command is on your search path. On Windows and OS X, double-clicking any of the 6.004 jar files will run the program (assuming you've installed the Sun Java environment).
+First, you'll need to install a Java system. The Sun Java Runtime Environment, Standard Edition (J2SE), for Linux, Solaris and Windows can be downloaded from {{% resource_link "53b153eb-2914-4a6a-b996-7da950ad3267" "Sun's official site" %}}. J2SE for Mac OS X is available from {{% resource_link "8d5daa5b-0a71-41b0-a898-b0f6f62aef91" "Apple's Web site" %}}. On Linux, you'll want to change your PATH environment variable so that the "java" command is on your search path. On Windows and OS X, double-clicking any of the 6.004 jar files will run the program (assuming you've installed the Sun Java environment).
 
 Once you've installed a Java environment and downloaded the 6.004 files, you can run JSim using the following command:
 
